@@ -1,6 +1,6 @@
 {
-  "name": "node-binance-api-ext",
-  "version": "2.0.2",
+  "name": "node-binance-api-full",
+  "version": "2.0.3",
   "description": "Extended Binance API for node with intellisense and full documentation",
   "main": "src/index.js",
   "dependencies": {
@@ -56,4 +56,5 @@
     "mocha-lcov-reporter": "^1.3.0",
     "nyc": "^14.1.1"
   }
+  
 }

@@ -4,7 +4,7 @@
 
 [![Buy me a coffee][buymeacoffee-shield]][buymeacoffee]
 
-[![NPM](https://nodei.co/npm/node-binance-api-ext.png?compact=true)](https://npmjs.org/package/node-binance-api-ext)
+[![NPM](https://nodei.co/npm/node-binance-api-full.png?compact=true)](https://npmjs.org/package/node-binance-api-ext)
 
 # Node Binance API Ext
 
