@@ -2223,11 +2223,11 @@ binance.setOption('verbose', true);
 
 ## A bit of advertising :-)
 
-As [TeamArga](https://www.fcs.ninja/), Custom Application Development Services.
+As [FCSNinja](https://www.fcs.ninja/), Custom Application Development Services.
 Unlock your company or startup`s hidden growth potential with us, using Blockchain, Fintech or the Cloud. IT outsourcing company Fcs.Ninja helps you create an innovative end to end product or augment your team with the right experts.
-Feel free to contact
+## [Feel free to contact](https://www.fcs.ninja/contacts/)
 
 [buymeacoffee-shield]: https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-2.svg
-[buymeacoffee]: [https://www.buymeacoffee.com/ngocbd](https://bscscan.com/address/0xDa18C5D75c6722011803980cB12bb047783387a3)
+[buymeacoffee]: https://bscscan.com/address/0xDa18C5D75c6722011803980cB12bb047783387a3
 
 ![Downloads](https://img.shields.io/npm/dt/node-binance-api-full.svg?style=for-the-badge&maxAge=86400) ![Stars](https://img.shields.io/github/stars/ngocbd/node-binance-api-full.svg?style=for-the-badge&label=Stars) ![Contributors](https://img.shields.io/github/contributors/ngocbd/node-binance-api-full.svg?style=for-the-badge&maxAge=86400)
