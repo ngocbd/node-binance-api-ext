@@ -1,6 +1,6 @@
-[![GitHub last commit](https://img.shields.io/github/last-commit/ngocbd/node-binance-api-ext.svg?maxAge=2400)](#)
-[![npm version](https://img.shields.io/npm/v/node-binance-api-ext.svg?style=flat-square)](https://www.npmjs.com/package/axios-rate-limit)
-[![npm downloads](https://img.shields.io/npm/dt/node-binance-api-ext.svg?style=flat-square)](https://www.npmjs.com/package/axios-rate-limit)
+[![GitHub last commit](https://img.shields.io/github/last-commit/ngocbd/node-binance-api-full.svg?maxAge=2400)](#)
+[![npm version](https://img.shields.io/npm/v/node-binance-api-full.svg?style=flat-square)](https://www.npmjs.com/package/axios-rate-limit)
+[![npm downloads](https://img.shields.io/npm/dt/node-binance-api-full.svg?style=flat-square)](https://www.npmjs.com/package/axios-rate-limit)
 
 [![Buy me a coffee][buymeacoffee-shield]][buymeacoffee]
 
@@ -39,16 +39,16 @@ With full documented functions and intellisense support , it is easy to use
 <a href="#websockets-implementation" style="color:#282828">Streams</a> •
 <a href="#binance-margin-api">Margin API</a> •
 <a href="#binance-lending-api">Lending API</a><br/>
-<a href="https://github.com/ngocbd/node-binance-api-ext/tree/master/examples">Examples</a> •
+<a href="https://github.com/ngocbd/node-binance-api-full/tree/master/examples">Examples</a> •
 <a href="#troubleshooting">Troubleshooting</a> •
-<a href="https://github.com/ngocbd/node-binance-api-ext/releases">Changelog</a> •
-<a href="https://t.me/binance_api_english">Support</a>
+<a href="https://github.com/ngocbd/node-binance-api-full/releases">Changelog</a> •
+<a href="https://t.me/bossxty">Support</a>
 
 </p></b>
 
 #### Installation: **`npm install -s node-binance-api-full`**
 
-[![npm install node-binance-api-ext](https://nodei.co/npm/node-binance-api-full.png?mini=true)](https://npmjs.org/package/node-binance-api-full)
+[![npm install node-binance-api-full](https://nodei.co/npm/node-binance-api-full.png?mini=true)](https://npmjs.org/package/node-binance-api-full)
 
 #### Getting started
 
@@ -2166,17 +2166,17 @@ let lendingData = await binance.lending();
   ```
 </details>
 
-#### [Advanced Examples](https://github.com/ngocbd/node-binance-api-ext/blob/master/examples/advanced.md)
+#### [Advanced Examples](https://github.com/ngocbd/node-binance-api-full/blob/master/examples/advanced.md)
 
-> [exchangeInfo: Pull minimum order size, quantity, etc](https://github.com/ngocbd/node-binance-api-ext/blob/master/examples/advanced.md#exchangeinfo-pull-minimum-order-size-quantity-etc)\
-> [Clamp order quantities to required amounts via minQty, minNotional, stepSize when placing orders](https://github.com/ngocbd/node-binance-api-ext/blob/master/examples/advanced.md#clamp-order-quantities-to-required-amounts-via-minqty-minnotional-stepsize-when-placing-orders)\
-> [Show API Rate limits](https://github.com/ngocbd/node-binance-api-ext/blob/master/examples/advanced.md#show-api-rate-limits)\
-> [Connect to all WebSockets at once](https://github.com/ngocbd/node-binance-api-ext/blob/master/examples/advanced.md#connect-to-all-websockets-at-once-thanks-keith1024)\
-> [Get last order for a symbol](https://github.com/ngocbd/node-binance-api-ext/blob/master/examples/advanced.md#get-last-order-for-a-symbol)\
-> [newOrderRespType example](https://github.com/ngocbd/node-binance-api-ext/blob/master/examples/advanced.md#neworderresptype-example-when-placing-orders)\
-> [Recent Trades (historicalTrades, recentTrades, aggTrades functions)](https://github.com/ngocbd/node-binance-api-ext/blob/master/examples/advanced.md#recent-trades-historicaltrades-recenttrades-aggtrades-functions)\
-> [Terminate WebSocket connections](https://github.com/ngocbd/node-binance-api-ext/blob/master/examples/advanced.md#terminate-websocket-connections)\
-> [User Data: Account Balance Updates, Trade Updates, New Orders, Filled Orders, Cancelled Orders via WebSocket](https://github.com/ngocbd/node-binance-api-ext/blob/master/examples/advanced.md#user-data-account-balance-updates-trade-updates-new-orders-filled-orders-cancelled-orders-via-websocket) > [Margin User Data: Account Balance Updates, Trade Updates, New Orders, Filled Orders, Cancelled Orders via WebSocket](https://github.com/ngocbd/node-binance-api-ext/blob/master/examples/advanced.md#margin-user-data-account-balance-updates-trade-updates-new-orders-filled-orders-cancelled-orders-via-websocket) > [Asynchronous Syntax Options](https://github.com/ngocbd/node-binance-api-ext/blob/master/examples/advanced.md#asynchronous-syntax-options)
+> [exchangeInfo: Pull minimum order size, quantity, etc](https://github.com/ngocbd/node-binance-api-full/blob/master/examples/advanced.md#exchangeinfo-pull-minimum-order-size-quantity-etc)\
+> [Clamp order quantities to required amounts via minQty, minNotional, stepSize when placing orders](https://github.com/ngocbd/node-binance-api-full/blob/master/examples/advanced.md#clamp-order-quantities-to-required-amounts-via-minqty-minnotional-stepsize-when-placing-orders)\
+> [Show API Rate limits](https://github.com/ngocbd/node-binance-api-full/blob/master/examples/advanced.md#show-api-rate-limits)\
+> [Connect to all WebSockets at once](https://github.com/ngocbd/node-binance-api-full/blob/master/examples/advanced.md#connect-to-all-websockets-at-once-thanks-keith1024)\
+> [Get last order for a symbol](https://github.com/ngocbd/node-binance-api-full/blob/master/examples/advanced.md#get-last-order-for-a-symbol)\
+> [newOrderRespType example](https://github.com/ngocbd/node-binance-api-full/blob/master/examples/advanced.md#neworderresptype-example-when-placing-orders)\
+> [Recent Trades (historicalTrades, recentTrades, aggTrades functions)](https://github.com/ngocbd/node-binance-api-full/blob/master/examples/advanced.md#recent-trades-historicaltrades-recenttrades-aggtrades-functions)\
+> [Terminate WebSocket connections](https://github.com/ngocbd/node-binance-api-full/blob/master/examples/advanced.md#terminate-websocket-connections)\
+> [User Data: Account Balance Updates, Trade Updates, New Orders, Filled Orders, Cancelled Orders via WebSocket](https://github.com/ngocbd/node-binance-api-full/blob/master/examples/advanced.md#user-data-account-balance-updates-trade-updates-new-orders-filled-orders-cancelled-orders-via-websocket) > [Margin User Data: Account Balance Updates, Trade Updates, New Orders, Filled Orders, Cancelled Orders via WebSocket](https://github.com/ngocbd/node-binance-api-full/blob/master/examples/advanced.md#margin-user-data-account-balance-updates-trade-updates-new-orders-filled-orders-cancelled-orders-via-websocket) > [Asynchronous Syntax Options](https://github.com/ngocbd/node-binance-api-full/blob/master/examples/advanced.md#asynchronous-syntax-options)
 
 ### Troubleshooting
 
@@ -2214,19 +2214,20 @@ You can enable verbose mode to help with debugging WebSocket streams:
 binance.setOption('verbose', true);
 ```
 
-> ### For support go to [Telegram](https://t.me/binance_api_ext)
+> ### For support go to [Telegram](https://t.me/bossxty)
 
 ## Contribution
 
 - Give us a star :star:
-- Select existing [issues](https://github.com/ngocbd/node-binance-api-ext/issues) or create a [new issue](https://github.com/ngocbd/node-binance-api-ext/issues/new) and give us a PR with your bugfix or improvement after. We love it ❤️
+- Select existing [issues](https://github.com/ngocbd/node-binance-api-full/issues) or create a [new issue](https://github.com/ngocbd/node-binance-api-full/issues/new) and give us a PR with your bugfix or improvement after. We love it ❤️
 
 ## A bit of advertising :-)
 
-As [TeamArga](https://argatechnology.com/) , we have been developing javascript, python, c # projects since 2015.
+As [TeamArga](https://www.fcs.ninja/), Custom Application Development Services.
+Unlock your company or startup`s hidden growth potential with us, using Blockchain, Fintech or the Cloud. IT outsourcing company Fcs.Ninja helps you create an innovative end to end product or augment your team with the right experts.
 Feel free to contact
 
 [buymeacoffee-shield]: https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-2.svg
-[buymeacoffee]: https://www.buymeacoffee.com/ngocbd
+[buymeacoffee]: [https://www.buymeacoffee.com/ngocbd](https://bscscan.com/address/0xDa18C5D75c6722011803980cB12bb047783387a3)
 
-![Downloads](https://img.shields.io/npm/dt/node-binance-api-ext.svg?style=for-the-badge&maxAge=86400) ![Stars](https://img.shields.io/github/stars/ngocbd/node-binance-api-ext.svg?style=for-the-badge&label=Stars) ![Contributors](https://img.shields.io/github/contributors/ngocbd/node-binance-api-ext.svg?style=for-the-badge&maxAge=86400)
+![Downloads](https://img.shields.io/npm/dt/node-binance-api-full.svg?style=for-the-badge&maxAge=86400) ![Stars](https://img.shields.io/github/stars/ngocbd/node-binance-api-full.svg?style=for-the-badge&label=Stars) ![Contributors](https://img.shields.io/github/contributors/ngocbd/node-binance-api-full.svg?style=for-the-badge&maxAge=86400)
