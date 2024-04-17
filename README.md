@@ -2,7 +2,7 @@
 [![npm version](https://img.shields.io/npm/v/node-binance-api-full.svg?style=flat-square)](https://www.npmjs.com/package/axios-rate-limit)
 [![npm downloads](https://img.shields.io/npm/dt/node-binance-api-full.svg?style=flat-square)](https://www.npmjs.com/package/axios-rate-limit)
 
-[![Buy me a coffee](https://bscscan.com/address/0xDa18C5D75c6722011803980cB12bb047783387a3)
+[![Buy me a coffee][buymeacoffee-shield]][buymeacoffee]
 
 [![NPM](https://nodei.co/npm/node-binance-api-full.png?compact=true)](https://npmjs.org/package/node-binance-api-full)
 
