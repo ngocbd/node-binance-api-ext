@@ -2231,3 +2231,6 @@ Unlock your company or startup`s hidden growth potential with us, using Blockcha
 [buymeacoffee]: https://bscscan.com/address/0xDa18C5D75c6722011803980cB12bb047783387a3
 
 ![Downloads](https://img.shields.io/npm/dt/node-binance-api-full.svg?style=for-the-badge&maxAge=86400) ![Stars](https://img.shields.io/github/stars/ngocbd/node-binance-api-full.svg?style=for-the-badge&label=Stars) ![Contributors](https://img.shields.io/github/contributors/ngocbd/node-binance-api-full.svg?style=for-the-badge&maxAge=86400)
+
+## Keywords
+[finance](binance.com) [binance rate limit](https://www.npmjs.com/package/node-binance-api-full) [binance futures API](https://www.npmjs.com/package/node-binance-api-full) [binance api full](https://www.npmjs.com/package/node-binance-api-full) [binance API](https://www.npmjs.com/package/node-binance-api-full) [binance spot API](https://www.npmjs.com/package/node-binance-api-full) [blockchain](https://www.fcs.ninja/) [blockchain defi](https://www.fcs.ninja/) [Dapp](https://www.fcs.ninja/) [smartcontract](https://www.fcs.ninja/)
