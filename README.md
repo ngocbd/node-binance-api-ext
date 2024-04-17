@@ -4,7 +4,7 @@
 
 [![Buy me a coffee][buymeacoffee-shield]][buymeacoffee]
 
-[![NPM](https://nodei.co/npm/node-binance-api-full.png?compact=true)](https://npmjs.org/package/node-binance-api-ext)
+[![NPM](https://nodei.co/npm/node-binance-api-full.png?compact=true)](https://npmjs.org/package/node-binance-api-full)
 
 # Node Binance API Full
 
@@ -48,7 +48,7 @@ With full documented functions and intellisense support , it is easy to use
 
 #### Installation: **`npm install -s node-binance-api-full`**
 
-[![npm install node-binance-api-ext](https://nodei.co/npm/node-binance-api-ext.png?mini=true)](https://npmjs.org/package/node-binance-api-ext)
+[![npm install node-binance-api-ext](https://nodei.co/npm/node-binance-api-full.png?mini=true)](https://npmjs.org/package/node-binance-api-full)
 
 #### Getting started
 
