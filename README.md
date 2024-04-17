@@ -6,7 +6,7 @@
 
 [![NPM](https://nodei.co/npm/node-binance-api-full.png?compact=true)](https://npmjs.org/package/node-binance-api-ext)
 
-# Node Binance API Ext
+# Node Binance API Full
 
 This project is designed to help you make your own projects that interact with the [Binance API](https://github.com/binance-exchange/binance-official-api-docs). You can stream candlestick chart data, market depth, or use other advanced features such as setting stop losses and iceberg orders. This project seeks to have complete API coverage including WebSockets.
 
@@ -14,7 +14,7 @@ With full documented functions and intellisense support , it is easy to use
 
 --FEATURES
 
-\*All functions has extended documentation
+\*All functions has extended documentationExt
 
 \*All functions has callback and promise support
 
@@ -46,14 +46,14 @@ With full documented functions and intellisense support , it is easy to use
 
 </p></b>
 
-#### Installation: **`npm install -s node-binance-api-ext`**
+#### Installation: **`npm install -s node-binance-api-full`**
 
 [![npm install node-binance-api-ext](https://nodei.co/npm/node-binance-api-ext.png?mini=true)](https://npmjs.org/package/node-binance-api-ext)
 
 #### Getting started
 
 ```javascript
-const Binance = require('node-binance-api-ext');
+const Binance = require('node-binance-api-full');
 const binance = Binance({
   APIKEY: '<key>',
   APISECRET: '<secret>',
